@@ -8,12 +8,16 @@ public class Myfirstprogram
 {
    public static void main (String[] args)
    {
+       Scanner keyboard = new Scanner(System.in);
+
+       double cost;
+
       /*
       ~String name = "rachel" ;
       ~int age = 21 ;
 
       ~System.out.println( "my name is " + name + " and i am "+ age + " years old");
-      */
+
 
       int number1 = 14;
       double number2 = 3;
@@ -32,6 +36,12 @@ public class Myfirstprogram
       System.out.println("result three is: " + result3 );
       result4 = number3/number4;
       System.out.println("result four is: " + result4 );
+      */
+
+      System.out.println("what is the cost ? ");
+      cost = keyboard.nextDouble();
+      System.out.println("the cost is " + cost);
+
 
    }
 
