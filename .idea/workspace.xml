@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.07" />
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.07">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Week1/Myfirstprogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Myfirstprogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blendedLearning/Pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blendedLearning/Pay.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,17 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "fileTemplates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Myfirstprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1.Myfirstprogram" />
@@ -104,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675173415160</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1.07">
+      <created>1675639316635</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675639316635</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,7 +134,8 @@
     <MESSAGE value="1.02" />
     <MESSAGE value="1.05" />
     <MESSAGE value="1.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.06" />
+    <MESSAGE value="1.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.07" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

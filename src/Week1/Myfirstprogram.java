@@ -12,11 +12,11 @@ public class Myfirstprogram
        DecimalFormat df = new DecimalFormat("00.00");
        double cost;
 
-      /*
-      ~String name = "rachel" ;
-      ~int age = 21 ;
 
-      ~System.out.println( "my name is " + name + " and i am "+ age + " years old");
+      String name = "rachel" ;
+      int age = 21 ;
+
+      System.out.println( "my name is " + name + " and i am "+ age + " years old");
 
 
       int number1 = 14;
@@ -41,7 +41,7 @@ public class Myfirstprogram
       System.out.println("what is the cost ? ");
       cost = keyboard.nextDouble();
       System.out.println("the cost is " + cost);
-      */
+
 
       double radius = 5;
       System.out.println("Circle radius = " + df.format(radius) + " to 2 d.p. ");
