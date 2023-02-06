@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.07">
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.08">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Week1/Myfirstprogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Week1/Myfirstprogram.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blendedLearning/Pay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blendedLearning/Pay.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675639316635</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.08">
+      <created>1675641394738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675641394738</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,7 +141,8 @@
     <MESSAGE value="1.05" />
     <MESSAGE value="1.06" />
     <MESSAGE value="1.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.07" />
+    <MESSAGE value="1.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.08" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
