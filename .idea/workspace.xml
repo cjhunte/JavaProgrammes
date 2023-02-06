@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.08 pay added.">
-      <change afterPath="$PROJECT_DIR$/src/blendedLearning/FizzBuzz1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.09 Fizzbuzz added." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675681576172</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1.09 Fizzbuzz added.">
+      <created>1675689883938</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675689883938</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,7 +156,8 @@
     <MESSAGE value="1.07" />
     <MESSAGE value="1.08" />
     <MESSAGE value="1.08 pay added." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.08 pay added." />
+    <MESSAGE value="1.09 Fizzbuzz added." />
+    <option name="LAST_COMMIT_MESSAGE" value="1.09 Fizzbuzz added." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
