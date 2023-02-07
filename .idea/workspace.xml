@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.08 pay added.">
-      <change afterPath="$PROJECT_DIR$/src/blendedLearning/FizzBuzz1.java" afterDir="false" />
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.07">
+      <change afterPath="$PROJECT_DIR$/src/UseFull_Extras/IsKeyPressed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Week2/Switches.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/blendedLearning/FizzBuzz1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blendedLearning/FizzBuzz1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +41,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
@@ -109,28 +108,7 @@
       <option name="project" value="LOCAL" />
       <updated>1675173415160</updated>
     </task>
-    <task id="LOCAL-00006" summary="1.07">
-      <created>1675639316635</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1675639316635</updated>
-    </task>
-    <task id="LOCAL-00007" summary="1.08">
-      <created>1675641394738</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675641394738</updated>
-    </task>
-    <task id="LOCAL-00008" summary="1.08 pay added.">
-      <created>1675681576172</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1675681576172</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,10 +127,7 @@
     <MESSAGE value="1.02" />
     <MESSAGE value="1.05" />
     <MESSAGE value="1.06" />
-    <MESSAGE value="1.07" />
-    <MESSAGE value="1.08" />
-    <MESSAGE value="1.08 pay added." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.08 pay added." />
+    <option name="LAST_COMMIT_MESSAGE" value="1.06" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

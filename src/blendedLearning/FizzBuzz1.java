@@ -12,19 +12,18 @@ public class FizzBuzz1
         Scanner keyboard = new Scanner(System.in);
         double FizzOBuzz = keyboard.nextDouble();
 
-
         if (FizzOBuzz % 3 == 0 && FizzOBuzz % 7 != 0 )
         {
             System.out.println("FIZZ");
 
         }
+        
 
         if (FizzOBuzz % 7 == 0 && FizzOBuzz % 3 != 0)
         {
             System.out.println("BUZZ");
 
         }
-
 
         if (FizzOBuzz >= 0 && FizzOBuzz % 7 != 0 && FizzOBuzz % 3 != 0)
         {
@@ -36,7 +35,6 @@ public class FizzBuzz1
             System.out.println("FIZZBUZZ");
 
         }
-
 
     }
 
