@@ -20,6 +20,7 @@ public class LargestNumber
          if(number > largestNumber)
          {
             largestNumber = number;
+
          }
          System.out.println("next number");
          number = scany.nextInt();
