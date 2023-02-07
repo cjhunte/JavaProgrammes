@@ -19,7 +19,7 @@ public class ForLoops
       {
        System.out.print("\nEnter a Month (1 – 12): ");
        month = scany.nextInt();
-      } while (month < 1 || month > 12);//do whi
+      } while (month < 1 || month > 12);//do while
 
 
    }
