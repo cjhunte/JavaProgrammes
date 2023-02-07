@@ -7,6 +7,9 @@ public class ForLoops
 
    public static void main (String [] args)
    {
+
+      final int TERMINATION = - 999;
+      int number, total= 0;
       Scanner scany = new Scanner(System.in);
 
       for (int count = 1; count <= 10; count++)
@@ -20,6 +23,9 @@ public class ForLoops
        System.out.print("\nEnter a Month (1 – 12): ");
        month = scany.nextInt();
       } while (month < 1 || month > 12);//do while
+
+
+
 
 
    }

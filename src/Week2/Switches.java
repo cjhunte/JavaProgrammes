@@ -10,12 +10,6 @@ public class Switches
     {
 
 
-
-
-
-
-
-
       Scanner Scany = new Scanner(System.in);
       int choice = 0 ;
 
