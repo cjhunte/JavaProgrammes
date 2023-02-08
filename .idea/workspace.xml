@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.09 Fizzbuzz added." />
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.5&#10;Largestnumber.java added to the program">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/Donations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/Donations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/LargestNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +39,6 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
 }</component>
@@ -106,40 +106,40 @@
       <option name="project" value="LOCAL" />
       <updated>1675173415160</updated>
     </task>
-    <task id="LOCAL-00006" summary="1.07">
-      <created>1675639316635</created>
+    <task id="LOCAL-00006" summary="1.1&#10;added loop for is key pressed &#10;added section on Operators and Switches &#10;updated FizzBuzz and a few other minor changes.">
+      <created>1675765629612</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1675639316635</updated>
+      <updated>1675765629612</updated>
     </task>
-    <task id="LOCAL-00007" summary="1.08">
-      <created>1675641394738</created>
+    <task id="LOCAL-00007" summary="1.2&#10;added for and do loops">
+      <created>1675768162860</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1675641394738</updated>
+      <updated>1675768162860</updated>
     </task>
-    <task id="LOCAL-00008" summary="1.08 pay added.">
-      <created>1675681576172</created>
+    <task id="LOCAL-00008" summary="1.2&#10;added for and do loops">
+      <created>1675769131254</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1675681576172</updated>
+      <updated>1675769131254</updated>
     </task>
-    <task id="LOCAL-00009" summary="1.09 Fizzbuzz added.">
-      <created>1675689883938</created>
+    <task id="LOCAL-00009" summary="1.4&#10;FizzOBuzz updated">
+      <created>1675770167281</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1675689883938</updated>
+      <updated>1675770167281</updated>
     </task>
-    <task id="LOCAL-00010" summary="1.09 Fizzbuzz added.">
-      <created>1675690046371</created>
+    <task id="LOCAL-00010" summary="1.5&#10;Largestnumber.java added to the program">
+      <created>1675772411671</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1675690046371</updated>
+      <updated>1675772411671</updated>
     </task>
     <option name="localTasksCounter" value="11" />
     <servers />
@@ -160,11 +160,11 @@
     <MESSAGE value="1.02" />
     <MESSAGE value="1.05" />
     <MESSAGE value="1.06" />
-    <MESSAGE value="1.07" />
-    <MESSAGE value="1.08" />
-    <MESSAGE value="1.08 pay added." />
-    <MESSAGE value="1.09 Fizzbuzz added." />
-    <option name="LAST_COMMIT_MESSAGE" value="1.09 Fizzbuzz added." />
+    <MESSAGE value="1.1&#10;added loop for is key pressed &#10;added section on Operators and Switches &#10;updated FizzBuzz and a few other minor changes." />
+    <MESSAGE value="1.2&#10;added for and do loops" />
+    <MESSAGE value="1.4&#10;FizzOBuzz updated" />
+    <MESSAGE value="1.5&#10;Largestnumber.java added to the program" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.5&#10;Largestnumber.java added to the program" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
