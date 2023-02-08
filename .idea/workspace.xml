@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.5&#10;Largestnumber.java added to the program">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/Donations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/Donations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/NumberMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/NumberMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
