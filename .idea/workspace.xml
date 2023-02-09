@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="1.5&#10;Largestnumber.java added to the program">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/NumberMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/NumberMenu.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="2.0 week 2 activites updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675772411671</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2.0 week 2 activites updated">
+      <created>1675874655581</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675874655581</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -163,7 +167,8 @@
     <MESSAGE value="1.2&#10;added for and do loops" />
     <MESSAGE value="1.4&#10;FizzOBuzz updated" />
     <MESSAGE value="1.5&#10;Largestnumber.java added to the program" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.5&#10;Largestnumber.java added to the program" />
+    <MESSAGE value="2.0 week 2 activites updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.0 week 2 activites updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
