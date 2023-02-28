@@ -31,6 +31,6 @@ public class Donations
          count +=1;
          System.out.println("next donation");
       }while (DoTot < 500);
-      System.out.println(HighDo +("  ")+ ("  ")+BigDo+("  ")+(count));
+      System.out.println(HighDo +(" was the biggest donation ")+ (" they donated : ")+BigDo+(" and  ")+(count) +"people donated " +"the total donated was:"+(DoTot));
    }
 }
