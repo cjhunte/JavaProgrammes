@@ -1,5 +1,7 @@
 package CarShowroom;
 import java.util.Date;
+import java.util.Calendar;
+
 
 public class car {//creates the class for car
 
@@ -13,6 +15,14 @@ public class car {//creates the class for car
         private int price;
         private Date dateRegistered ;
 
+
+         private static int noOfCars = 0;
+
+         public int Caram;
+        {
+            noOfCars ++;
+
+        }//Default Constructor
 
 
     public car (String Newreg,String newmake,String newmodel, int newengine, String newcolour, int newmanYear, int newprice, Date newdateRegistered)
@@ -28,23 +38,10 @@ public class car {//creates the class for car
 
     }//this is our constructor method again to be used later
 
-    protected void setColour(String colour) {
-        this.colour = colour;
-    }
-    protected void setRegistration(String Newreg) {
-        this.registration = Newreg;
-    }
-    protected void setDateRegistered(Date newdateRegistered) {
-        this.dateRegistered = newdateRegistered;
-    }
 
-    protected void printCarInfo() {
-        System.out.println("CAR DETAILS");
-        System.out.println("The registration number is " + registration);
-        System.out.println("The make of the car is " + make);
-        System.out.println("The car is " + colour + " and was manufactured in " + manYear);
-        System.out.println("===========");
-    }//printCarInfo
+
+
+    ///////////////////////////////////getters
 
     protected String getRegistration() {
         return registration;
@@ -71,6 +68,63 @@ public class car {//creates the class for car
     protected Date getDateRegistered (){
         return dateRegistered;
     }
+
+    ////////////////////////////////////////////////////////setters
+    protected void setColour(String newcolour) {
+        this.colour = newcolour;
+    }
+    protected void setRegistration(String Newreg) {
+        this.registration = Newreg;
+    }
+    protected void setMake(String newmake) {
+        this.make = newmake;
+    }
+    protected void setModel(String newmodel) {
+        this.model = newmodel;
+    }
+    protected void setEngine(int newengine) {
+        this.engine = newengine;
+    }
+    protected void setManYear(int newmanYear) {
+        this.manYear = newmanYear;
+    }
+    public void setPrice(int newprice) {
+        this.price = newprice;
+    }
+
+    protected int ageOfCar(int manYear)
+    {
+        int year = Calendar.getInstance().get(Calendar.YEAR);
+        int age;
+        if (manYear == 0)
+        {
+            age = -1;
+        }
+        else
+        {
+            age = year - manYear;
+        }
+        return age;
+    }//ageOfCars determines how old the car is and returns that information.
+
+
+
+    protected void printCarInfo()
+    {
+        System.out.println("CAR DETAILS");
+        System.out.println("The registration number is " + registration);
+        System.out.println("The make of the car is " + make);
+        System.out.println("The model of the car is " + model);
+        System.out.println("The engine capacity of the car is " + engine);
+        System.out.println("The car is " + colour + " and was manufactured in " );
+        System.out.println("The price is " + price + " and it was registered on "+ dateRegistered );
+        System.out.println("===========");
+    }//printCarInfo
+    //Ex 1.14
+    protected static int numberOfCars()
+    {
+        return noOfCars;
+    }//numberOfCars
 
 
 }
