@@ -1,4 +1,5 @@
 package CarShowroom;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Calendar;
 
@@ -11,19 +12,11 @@ public class car {//creates the class for car
         private String VendName;
         private int vCont;
         private int price;
-        private Date dateRegistered ;
+        private String dateRegistered;
 
 
-         private static int noOfCars = 0;
 
-         public int Caram;
-        {
-            noOfCars ++;
-
-        }//Default Constructor
-
-
-    public car (String NewPost,String Newaddress,String NTown, int NewPtype, String Newvendname, int NewvCont, int newprice, Date newdateRegistered)
+    public car (String NewPost,String Newaddress,String NTown, int NewPtype, String Newvendname, int NewvCont, int newprice)
     {
         postcode = NewPost;
         AddReslin = Newaddress;
@@ -32,7 +25,7 @@ public class car {//creates the class for car
         VendName = Newvendname;
         vCont = NewvCont;
         price = newprice;
-        dateRegistered = newdateRegistered;
+        dateRegistered = new SimpleDateFormat("dd-MM-yyyy").format(new Date());
 
     }//this is our constructor method again to be used later
 
@@ -63,7 +56,7 @@ public class car {//creates the class for car
     protected int getPrice (){
         return price;
     }
-    protected Date getDateRegistered (){
+    protected String getDateRegistered (){
         return dateRegistered;
     }
 
@@ -90,20 +83,7 @@ public class car {//creates the class for car
         this.price = newprice;
     }
 
-    protected int ageOfCar(int manYear)
-    {
-        int year = Calendar.getInstance().get(Calendar.YEAR);
-        int age;
-        if (manYear == 0)
-        {
-            age = -1;
-        }
-        else
-        {
-            age = year - manYear;
-        }
-        return age;
-    }//ageOfCars determines how old the car is and returns that information.
+
 
 
 
@@ -119,10 +99,7 @@ public class car {//creates the class for car
         System.out.println("===========");
     }//printCarInfo
     //Ex 1.14
-    protected static int numberOfCars()
-    {
-        return noOfCars;
-    }//numberOfCars
+
 
 
 }

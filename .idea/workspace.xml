@@ -216,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677145642095</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2.2">
+      <created>1678185657574</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1678185657574</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -242,7 +249,8 @@
     <MESSAGE value="1.5&#10;Largestnumber.java added to the program" />
     <MESSAGE value="2.0 week 2 activites updated" />
     <MESSAGE value="CW1 began added main method and all constructors added in the print function and getters and setters for said values." />
-    <option name="LAST_COMMIT_MESSAGE" value="CW1 began added main method and all constructors added in the print function and getters and setters for said values." />
+    <MESSAGE value="2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
