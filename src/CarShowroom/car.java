@@ -4,14 +4,12 @@ import java.util.Calendar;
 
 
 public class car {//creates the class for car
-
-
-        private String registration;//these define the attributes for car to later be changed via overloading
-        private String make;
-        private String model;
-        private int engine;
-        private String colour;
-        private int manYear;
+        private String postcode;//these define the attributes for car to later be changed via overloading
+        private String AddReslin;
+        private String Town;
+        private int Ptype;
+        private String VendName;
+        private int vCont;
         private int price;
         private Date dateRegistered ;
 
@@ -25,14 +23,14 @@ public class car {//creates the class for car
         }//Default Constructor
 
 
-    public car (String Newreg,String newmake,String newmodel, int newengine, String newcolour, int newmanYear, int newprice, Date newdateRegistered)
+    public car (String NewPost,String Newaddress,String NTown, int NewPtype, String Newvendname, int NewvCont, int newprice, Date newdateRegistered)
     {
-        registration = Newreg;
-        make = newmake;
-        model = newmodel;
-        engine = newengine;
-        colour = newcolour;
-        manYear = newmanYear;
+        postcode = NewPost;
+        AddReslin = Newaddress;
+        Town = NTown;
+        Ptype = NewPtype;
+        VendName = Newvendname;
+        vCont = NewvCont;
         price = newprice;
         dateRegistered = newdateRegistered;
 
@@ -43,24 +41,24 @@ public class car {//creates the class for car
 
     ///////////////////////////////////getters
 
-    protected String getRegistration() {
-        return registration;
+    protected String getPostcode() {
+        return postcode;
     }
 
-    protected String getMake() {
-        return make;
+    protected String getAddReslin() {
+        return AddReslin;
     }
-    protected String getModel() {
-        return model;
+    protected String getTown() {
+        return Town;
     }
-    protected int getEngine (){
-        return engine;
+    protected int getPtype(){
+        return Ptype;
     }
-    protected String getColour (){
-        return colour;
+    protected String getVendName(){
+        return VendName;
     }
-    protected int getManYear (){
-        return manYear;
+    protected int getvCont(){
+        return vCont;
     }
     protected int getPrice (){
         return price;
@@ -70,23 +68,23 @@ public class car {//creates the class for car
     }
 
     ////////////////////////////////////////////////////////setters
-    protected void setColour(String newcolour) {
-        this.colour = newcolour;
+    protected void setVendName(String newcolour) {
+        this.VendName = newcolour;
     }
-    protected void setRegistration(String Newreg) {
-        this.registration = Newreg;
+    protected void setPostcode(String Newreg) {
+        this.postcode = Newreg;
     }
-    protected void setMake(String newmake) {
-        this.make = newmake;
+    protected void setAddReslin(String newmake) {
+        this.AddReslin = newmake;
     }
-    protected void setModel(String newmodel) {
-        this.model = newmodel;
+    protected void setTown(String newmodel) {
+        this.Town = newmodel;
     }
-    protected void setEngine(int newengine) {
-        this.engine = newengine;
+    protected void setPtype(int newengine) {
+        this.Ptype = newengine;
     }
-    protected void setManYear(int newmanYear) {
-        this.manYear = newmanYear;
+    protected void setvCont(int newmanYear) {
+        this.vCont = newmanYear;
     }
     public void setPrice(int newprice) {
         this.price = newprice;
@@ -112,11 +110,11 @@ public class car {//creates the class for car
     protected void printCarInfo()
     {
         System.out.println("CAR DETAILS");
-        System.out.println("The registration number is " + registration);
-        System.out.println("The make of the car is " + make);
-        System.out.println("The model of the car is " + model);
-        System.out.println("The engine capacity of the car is " + engine);
-        System.out.println("The car is " + colour + " and was manufactured in " );
+        System.out.println("The registration number is " + postcode);
+        System.out.println("The make of the car is " + AddReslin);
+        System.out.println("The model of the car is " + Town);
+        System.out.println("The engine capacity of the car is " + Ptype);
+        System.out.println("The car is " + VendName + " and was manufactured in " );
         System.out.println("The price is " + price + " and it was registered on "+ dateRegistered );
         System.out.println("===========");
     }//printCarInfo
