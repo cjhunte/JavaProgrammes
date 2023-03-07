@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="2.2">
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EstateAgents/displaydetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CarShowroom/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CarShowroom/car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CarShowroom/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstateAgents/property.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.act2">
+  <component name="RunManager" selected="Application.displaydetails">
     <configuration name="Myfirstprogram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Week1.Myfirstprogram" />
       <module name="JavaProgrammes" />
@@ -81,8 +82,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="displaydetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EstateAgents.displaydetails" />
+      <module name="JavaProgrammes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="EstateAgents.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.displaydetails" />
         <item itemvalue="Application.act2" />
         <item itemvalue="Application.Myfirstprogram" />
       </list>
@@ -223,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678185657574</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="fixes for property">
+      <created>1678187464812</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1678187464812</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +272,8 @@
     <MESSAGE value="2.0 week 2 activites updated" />
     <MESSAGE value="CW1 began added main method and all constructors added in the print function and getters and setters for said values." />
     <MESSAGE value="2.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.2" />
+    <MESSAGE value="fixes for property" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes for property" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

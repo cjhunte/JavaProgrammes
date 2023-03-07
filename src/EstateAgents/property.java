@@ -1,10 +1,10 @@
-package CarShowroom;
+package EstateAgents;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.Calendar;
 
 
-public class car {//creates the class for car
+public class property
+{//creates the class for car
         private String postcode;//these define the attributes for car to later be changed via overloading
         private String AddReslin;
         private String Town;
@@ -16,7 +16,9 @@ public class car {//creates the class for car
 
 
 
-    public car (String NewPost,String Newaddress,String NTown, int NewPtype, String Newvendname, int NewvCont, int newprice)
+
+
+    public property(String NewPost, String Newaddress, String NTown, int NewPtype, String Newvendname, int NewvCont, int newprice)
     {
         postcode = NewPost;
         AddReslin = Newaddress;
@@ -60,6 +62,12 @@ public class car {//creates the class for car
         return dateRegistered;
     }
 
+    protected String getfulladd(String addReslin,String postcode, String town)
+    {
+        String fulladdress = (addReslin + " " + town + " " + postcode );
+        return fulladdress;
+    }
+
     ////////////////////////////////////////////////////////setters
     protected void setVendName(String newcolour) {
         this.VendName = newcolour;
@@ -87,14 +95,14 @@ public class car {//creates the class for car
 
 
 
-    protected void printCarInfo()
+    protected void displaypropertydetails()
     {
-        System.out.println("CAR DETAILS");
-        System.out.println("The registration number is " + postcode);
-        System.out.println("The make of the car is " + AddReslin);
-        System.out.println("The model of the car is " + Town);
-        System.out.println("The engine capacity of the car is " + Ptype);
-        System.out.println("The car is " + VendName + " and was manufactured in " );
+        System.out.println("PROPERTY DETAILS");
+        System.out.println("The postcode is " + postcode);
+        System.out.println("The First line of address is " + AddReslin);
+        System.out.println("The area of this property is " + Town);
+        System.out.println("The property type is " + Ptype);
+        System.out.println("The property is sold by " + VendName );
         System.out.println("The price is " + price + " and it was registered on "+ dateRegistered );
         System.out.println("===========");
     }//printCarInfo
