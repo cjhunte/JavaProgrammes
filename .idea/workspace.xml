@@ -6,12 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstateAgents/property.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstateAgents/property.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Downloads" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -51,6 +54,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/60004087/Downloads&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.CommitDialog&quot;
   }
 }</component>
@@ -272,7 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678804118357</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="comments added 2.1">
+      <created>1679393424584</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679393424584</updated>
+    </task>
+    <task id="LOCAL-00023" summary="comments added 2.1">
+      <created>1679393450595</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679393450595</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,7 +320,8 @@
     <MESSAGE value="fixes for property" />
     <MESSAGE value="display details added." />
     <MESSAGE value="2.0 added part 2 to estate agents" />
-    <option name="LAST_COMMIT_MESSAGE" value="2.0 added part 2 to estate agents" />
+    <MESSAGE value="comments added 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="comments added 2.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
