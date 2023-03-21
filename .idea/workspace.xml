@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="">
+    <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="2.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EstateAgents/ArrayOfProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstateAgents/ArrayOfProperties.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679393450595</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="2.1 comments">
+      <created>1679393667745</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679393667745</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,12 +324,13 @@
     <MESSAGE value="1.5&#10;Largestnumber.java added to the program" />
     <MESSAGE value="2.0 week 2 activites updated" />
     <MESSAGE value="CW1 began added main method and all constructors added in the print function and getters and setters for said values." />
-    <MESSAGE value="2.2" />
     <MESSAGE value="fixes for property" />
     <MESSAGE value="display details added." />
     <MESSAGE value="2.0 added part 2 to estate agents" />
     <MESSAGE value="comments added 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments added 2.1" />
+    <MESSAGE value="2.1 comments" />
+    <MESSAGE value="2.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
