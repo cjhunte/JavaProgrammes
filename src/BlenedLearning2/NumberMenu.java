@@ -21,11 +21,11 @@ public class NumberMenu
 
             do {
 
-                System.out.println("1: Test if zero");
-                System.out.println("2: Find Square Root");
-                System.out.println("3: Test if Odd or Even");
-                System.out.println("4: Enter Another Number or Exit");
-                System.out.println("please choose a menu item between (1-4)");
+                System.out.println("1: Test if zero\n");
+                System.out.println("2: Find Square Root\n");
+                System.out.println("3: Test if Odd or Even\n");
+                System.out.println("4: Enter Another Number or Exit\n");
+                System.out.println("please choose a menu item between (1-4)\n");
                 Chou = scany.nextInt();
 
 
