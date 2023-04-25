@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed95cf1a-fd78-4359-87bf-1d0cba1a2eba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/company/CasualEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/fulltimeemployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/company/testemployee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BlenedLearning2/NumberMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BlenedLearning2/NumberMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/CasualEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/CasualEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/fulltimeemployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/fulltimeemployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/testemployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/company/testemployee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/60004087/OneDrive - Northern Regional College/JavaProgrammes/JavaProgrammes",
-    "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
+    "settings.editor.selected.configurable": "MavenSettings"
   }
 }]]></component>
   <component name="RunManager" selected="Application.testemployee">
@@ -337,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679994050154</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="employee details added">
+      <created>1682420176148</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682420176148</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +377,8 @@
     <MESSAGE value="2.2" />
     <MESSAGE value="comments for array of properties." />
     <MESSAGE value="comments" />
-    <option name="LAST_COMMIT_MESSAGE" value="comments" />
+    <MESSAGE value="employee details added" />
+    <option name="LAST_COMMIT_MESSAGE" value="employee details added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

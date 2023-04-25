@@ -25,9 +25,9 @@ public class fulltimeemployee extends employee
       return annualsal;
    }
 
-   protected double setannualsalary(double empsalary)
+   protected void setannualsalary(double empsalary)
    {
-      return annualsal = empsalary;
+      annualsal = empsalary;
    }
 
    protected double calculatemonthlypay()

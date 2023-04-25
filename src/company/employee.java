@@ -1,5 +1,8 @@
 package company;
 
+import java.text.DecimalFormat;
+import java.util.Scanner;
+
 abstract class employee
 {
    private String name;

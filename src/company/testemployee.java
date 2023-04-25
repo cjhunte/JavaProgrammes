@@ -11,7 +11,9 @@ public class testemployee
    public static String gettext(String message)
    {
       System.out.print(message);
+
       return scany.nextLine();
+
    }
 
    public static void main(String[]args)
@@ -24,20 +26,26 @@ public class testemployee
 
       System.out.println("test employee");
       System.out.println("==============");
-      number = gettext("employee number");
-      name = gettext("employee name");
+
+      number = gettext("employee number\n");
+
+      name = gettext("employee name\n");
+
       employee employee1 = new fulltimeemployee(number,name);
       employee1.welcome();
 
       System.out.println("test full-time employee");
-      System.out.println("==============");
-      number = gettext("employee number");
-      name = gettext("employee name");
-      employee employee2 = new fulltimeemployee(number,name);
-      employee2.welcome();
+      System.out.println("=======================");
+      number = gettext("employee number\n");
+      name = gettext("employee name\n");
 
-      System.out.println("what is " +employee2.getName()+"'s annual salary £");
       annualsal = scany.nextDouble();
+
+      fulltimeemployee employee2 = new fulltimeemployee(number,name);
+      System.out.println("what is " +employee2.getName()+"'s annual salary £");
+      employee2.setannualsalary(annualsal);
+
+
       employee2.getstatus();
 
 

@@ -1,4 +1,6 @@
 package company;
+import java.text.DecimalFormat;
+import java.util.Scanner;
 
 
 public class CasualEmployee extends employee
